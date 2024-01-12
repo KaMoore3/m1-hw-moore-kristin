@@ -5,7 +5,8 @@
 ## Past Coding Experience
 > I have not done much coding at all, just some modifications to html in wordpress.
 ## Career Goals ##
-1. A numbered list
-     1. A nested numbered list
-     2. Which is numbered
-2. Which is numbered
+1. Provide direction & leadership to launch new brands and create inbound leads
+     1. Build user friendly websites
+     2. Leverage AI for effectiveness
+     3. Stay ahead of social trends
+2. Complete my masters degree
